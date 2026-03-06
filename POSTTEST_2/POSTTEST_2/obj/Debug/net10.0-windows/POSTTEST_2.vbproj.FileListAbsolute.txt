@@ -1,0 +1,16 @@
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.exe
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.deps.json
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.runtimeconfig.json
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.dll
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\bin\Debug\net10.0-windows\POSTTEST_2.pdb
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.Form1.resources
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.vbproj.GenerateResource.cache
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.AssemblyInfoInputs.cache
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.AssemblyInfo.vb
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.vbproj.CoreCompileInputs.cache
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.dll
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\refint\POSTTEST_2.dll
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.pdb
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\POSTTEST_2.genruntimeconfig.cache
+C:\Users\kenbi\Documents\00_KULIAH\Sem-4\PEMVIS\praktikum\pt\POSTTEST_2\POSTTEST_2\obj\Debug\net10.0-windows\ref\POSTTEST_2.dll
