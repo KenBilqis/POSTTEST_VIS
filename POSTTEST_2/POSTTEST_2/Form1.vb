@@ -1,6 +1,6 @@
-﻿Public Class Form1
+Public Class Form1
 
-    Private Sub RefreshDaftarBuku()
+    Private Sub TampilBuku()
         lstDaftarBuku.Items.Clear()
         For i As Integer = 0 To jumlahBuku - 1
             lstDaftarBuku.Items.Add(daftarBuku(i, 0) & " (" & daftarBuku(i, 1) & ")")
@@ -8,41 +8,41 @@
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        RefreshDaftarBuku()
+        TampilBuku()
     End Sub
 
     Private Sub btnTambah_Click(sender As Object, e As EventArgs) Handles btnTambah.Click
-        Dim judul As String = txtTambahJudul.Text.Trim()
-        Dim genre As String = txtTambahGenre.Text.Trim()
+        Dim judul As String = txtTambahJudul.Text
+        Dim genre As String = txtTambahGenre.Text
 
         If judul = "" Or genre = "" Then
-            MessageBox.Show("Judul dan Genre wajib diisi!")
+            MessageBox.Show("Judul dan genre tidak boleh kosong!")
             Return
         End If
 
         TambahBuku(judul, genre)
-        RefreshDaftarBuku()
+        TampilBuku()
 
         txtTambahJudul.Text = ""
         txtTambahGenre.Text = ""
     End Sub
 
     Private Sub btnHapus_Click(sender As Object, e As EventArgs) Handles btnHapus.Click
-        Dim judul As String = txtHapusJudul.Text.Trim()
+        Dim judul As String = txtHapusJudul.Text
 
         If judul = "" Then
-            MessageBox.Show("Judul buku wajib diisi!")
+            MessageBox.Show("Judul tidak boleh kosong!")
             Return
         End If
 
-        Dim berhasil As Boolean = HapusBuku(judul)
+        Dim hasil As Boolean = HapusBuku(judul)
 
-        If berhasil Then
-            MessageBox.Show("Buku """ & judul & """ berhasil dihapus.")
-            RefreshDaftarBuku()
+        If hasil = True Then
+            MessageBox.Show(judul & " berhasil dihapus!")
+            TampilBuku()
             txtHapusJudul.Text = ""
-        ElseIf Not berhasil Then
-            MessageBox.Show("Buku """ & judul & """ tidak ditemukan dalam daftar!")
+        ElseIf hasil = False Then
+            MessageBox.Show(judul & " tidak ada dalam daftar!")
         End If
     End Sub
 
